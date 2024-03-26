@@ -29,7 +29,7 @@ Nice to meet you!!!
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=JamesStewart314&theme=dracula&show_icons=true" />
 
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamesStewart314&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamesStewart314&layout=compact&langs_count=7&theme=dracula"/>
 </a>
 
 
