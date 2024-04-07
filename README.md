@@ -2,7 +2,7 @@
 
 # About Me ⊹ ˖
 Nice to meet you!!!
- My name is Allber Fellype, I'm currently 20 years old and I'm a undergraduate student in **Computer Science**, affiliated with the *Universidade Federal Fluminense (UFF)*.
+ My name is Allber Fellype, I'm currently 20 years old and I'm a undergraduate student in **Computer Science**, affiliated with the Universidade Federal Fluminense (UFF).
 
   I am in the third semester of the course, dedicating myself to the assimilation of new technologies and programming languages. I intend to direct my professional development towards the field of artificial intelligence, seeking specialization in this area in the future.
 
