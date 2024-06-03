@@ -29,12 +29,9 @@ Nice to meet you!!!
 
 <a href="https://github.com/JamesStewart314" title="Allber's profile">
   <img height="200em" width="1000" align="center" src="https://github-readme-stats.vercel.app/api?username=JamesStewart314&theme=chartreuse-dark&show_icons=true" />
-
   <br></br>
-
-  <img height="250em" width="900m" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamesStewart314&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+  <img height="225em" width="950m" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamesStewart314&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </a>
-
 <br></br>
 
 [![Gmail Badge](https://img.shields.io/badge/-allber010324@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:allber010324@gmail.com)](mailto:allber010324@gmail.com)
