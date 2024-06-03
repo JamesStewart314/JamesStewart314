@@ -31,9 +31,10 @@ Nice to meet you!!!
   <img height="200em" width="1000" align="center" src="https://github-readme-stats.vercel.app/api?username=JamesStewart314&theme=chartreuse-dark&show_icons=true" />
 
 
+
   <img height="250em" width="900m" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamesStewart314&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </a>
-
+<br/>
 
 [![Gmail Badge](https://img.shields.io/badge/-allber010324@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:allber010324@gmail.com)](mailto:allber010324@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/JamesStewart314?label=follow&style=social)](https://github.com/JamesStewart314)
